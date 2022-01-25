@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Roddick Rey C. Rullan
+=======
+Ronin O. Socorro
+>>>>>>> 228a99e1aa65960dac602cd5c5e90dae1c0e128c
